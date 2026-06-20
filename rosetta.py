@@ -4,7 +4,7 @@ import io
 import fitz
 import numpy as np
 
-st.title("Rosetta Stone")
+st.title("Rosetta")
 #UPLOAD THE IMAGE
 upload_file = st.file_uploader("Upload File", type = ["png","jpeg","jpg","webp", "pdf"])
 #OPEN AND DISPLAY THE IMAGE
