@@ -1,6 +1,6 @@
 streamlit
 Pillow
-pymupdf
+PyMuPDF
 numpy
 
 
